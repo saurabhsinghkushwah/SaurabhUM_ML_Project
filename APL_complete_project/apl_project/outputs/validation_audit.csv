@@ -1,0 +1,10 @@
+issue,rows_flagged
+missing_or_nonfinite_numeric,0
+nonpositive_sales,0
+invalid_quantity,0
+invalid_discount,0
+gross_net_mismatch,0
+price_quantity_mismatch,0
+profit_alias_mismatch,0
+net_sales_alias_mismatch,0
+customer_id_mismatch,0

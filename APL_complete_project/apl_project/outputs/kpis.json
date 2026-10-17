@@ -1,0 +1,12 @@
+{
+  "rows": 180519,
+  "customers": 20652,
+  "gross_sales": 36784734.31,
+  "net_revenue": 33054402.04,
+  "profit": 3966902.9699999997,
+  "discounts": 3730378.4,
+  "margin_pct": 12.001133662014356,
+  "profit_to_gross_pct": 10.784101188741193,
+  "discount_impact_ratio_pct": 48.46358370812681,
+  "modeled_margin_erosion_pp": 8.924072172372975
+}
