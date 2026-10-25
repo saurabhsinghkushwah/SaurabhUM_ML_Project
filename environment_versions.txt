@@ -1,0 +1,15 @@
+Python 3.13.14 (main, Jul 14 2026, 04:45:36) [GCC 14.2.0]
+
+pandas==2.2.3
+numpy==2.3.5
+openpyxl==3.1.5
+matplotlib==3.10.9
+seaborn==0.13.2
+plotly==6.0.1
+streamlit==1.66.0
+nbformat==5.10.4
+nbclient==0.11.0
+ipykernel==6.31.0
+reportlab==5.0.0
+python-docx==1.1.2
+Pillow==11.3.0
